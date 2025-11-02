@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background: linear-gradient(to left,#060699,
+    #07074D);
+    box-sizing: border-box;
+}
+
+.Carta-nombre{
+    text-align: center;
+}
+
+.carta-descripcion{
+    text-align: center;
+}
+
+
+.carta-presentacion{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 0 0 20px #222;
+    padding: 15px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background: linear-gradient(to top, #4141CC,
+    #eee);
+}
+
+.carta-lol{
+    text-align: center;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-weight: 550;
+    color: inherit;
+}
+
