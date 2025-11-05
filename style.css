@@ -1,8 +1,8 @@
 body{
     margin: 0;
     font-family: sans-serif;
-    background: linear-gradient(to left,#060699,
-    #07074D);
+    background: linear-gradient(to left,#eee,
+    #276FF5);
     box-sizing: border-box;
 }
 
@@ -19,11 +19,11 @@ body{
     max-width: 500px;
     margin: auto;
     margin-top: 200px;
-    box-shadow: 0 0 20px #222;
+    box-shadow: 0 0 20px #eee;
     padding: 15px;
     border-radius: 20px;
     box-sizing: border-box;
-    background: linear-gradient(to top, #4141CC,
+    background: linear-gradient(to top, #276FF5,
     #eee);
 }
 
@@ -34,5 +34,10 @@ body{
     font-size: 1em;
     font-weight: 550;
     color: inherit;
+}
+
+.carta-lol:hover{
+    color: #eee;
+    
 }
 
